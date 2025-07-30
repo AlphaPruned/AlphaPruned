@@ -1,4 +1,25 @@
-## Hi there 👋
+# Yo! Wassup, I'm @AlphaPruned 👋
+
+🎓 Recent CSE Grad from **IIT Palakkad**  
+💻 I usually start things on a whim — if something grabs my interest, I dive right in.  
+🤝 I love collaborating with my mates and building stuff that’s actually fun to work on.  
+🧠 Always down to explore something new, hack around weird ideas, or over-engineer a side project.  
+
+---
+
+If you’ve scrolled this far… maybe hang around my repos a bit?  
+Who knows — you might find something that sparks your curiosity. 😄
+
+---
+
+### 📫 Reach me here:
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnavkadu7)
+- 📧 Email: arnavkaducr7@gmail.com
+
+---
+
+Peace out ✌️
+
 
 <!--
 **AlphaPruned/AlphaPruned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
