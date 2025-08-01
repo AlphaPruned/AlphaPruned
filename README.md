@@ -8,7 +8,6 @@
 If you’ve read this far… maybe hang around my repos a bit?  
 Who knows — you might find something that sparks your curiosity. 😄
 
----
 
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arnavkadu7)
