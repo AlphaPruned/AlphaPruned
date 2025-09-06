@@ -11,7 +11,7 @@ Who knows — you might find something that sparks your curiosity. 😄
 
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arnavkadu7)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arnavkaducr7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arnav.r.kadu@gmail.com)
 
 Peace out ✌️
 
