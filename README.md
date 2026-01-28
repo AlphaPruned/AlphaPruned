@@ -12,7 +12,7 @@ Who knows — you might find something that sparks your curiosity. 😄
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arnavkadu7)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arnav.r.kadu@gmail.com)
-[![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce&style=for-the-badge)]([https://trailblazer.me/id/YOUR_ID](https://www.salesforce.com/trailblazer/arnavkadu7))
+[![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce&style=for-the-badge)]([https://www.salesforce.com/trailblazer/arnavkadu7](https://www.salesforce.com/trailblazer/arnavkadu7))
 
 Peace out ✌️
 
