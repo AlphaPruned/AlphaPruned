@@ -15,7 +15,7 @@ Who knows — you might find something that sparks your curiosity. 😄
 <!-- [![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce&style=for-the-badge)]([https://www.salesforce.com/trailblazer/arnavkadu7](https://www.salesforce.com/trailblazer/arnavkadu7)) -->
 
 Peace out ✌️
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlphaPruned)
 
 
 <!--
