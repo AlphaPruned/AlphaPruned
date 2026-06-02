@@ -6,7 +6,7 @@
  - Always down to explore something new, hack around weird ideas, or over-engineer a side project.
 
 If you’ve read this far… maybe hang around my repos a bit?  
-Who knows — you might find something that sparks your curiosity :)
+Who knows - you might find something that sparks your curiosity :)
 
 
 ### 📫 Reach me
